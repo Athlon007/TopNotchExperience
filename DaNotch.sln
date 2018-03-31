@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaNotch", "DaNotch\DaNotch.csproj", "{16FFC6E6-C921-4A76-82EE-CB55656DD4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FFC6E6-C921-4A76-82EE-CB55656DD4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FFC6E6-C921-4A76-82EE-CB55656DD4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FFC6E6-C921-4A76-82EE-CB55656DD4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FFC6E6-C921-4A76-82EE-CB55656DD4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3829B8D7-E347-42E9-94CF-5D5B55C5C40A}
+	EndGlobalSection
+EndGlobal
